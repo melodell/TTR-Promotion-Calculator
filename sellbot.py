@@ -28,7 +28,7 @@ MRHOLLYWOOD = {"8":680, "9":890, "10":1100, "11":1310, "12":5500, "13":680,
 sellbotDicts = {"COLDCALLER":COLDCALLER, "TELEMARKETER":TELEMARKETER, "NAMEDROPPER":NAMEDROPPER, "GLADHANDER":GLADHANDER, "MOVERANDSHAKER":MOVERANDSHAKER, "TWOFACE":TWOFACE, "MINGLER":MINGLER, "MRHOLLYWOOD":MRHOLLYWOOD}
 
 # Dictionary of factory merits
-factoryMerits = {"short":480, "long": 776, "side": 584}
+factoryMerits = {"short":480, "long":776, "side":584}
 
 # FUNCTION - Asks for the cog suit type and level, then stores them in variables
 def askForCog():
