@@ -7,11 +7,12 @@ get the next cog suit promotion in Toontown Rewritten.  Takes multiple user inpu
 end result to help players be most efficient.
 
 ## How to Use
-First, make sure you have Python3 downloaded.  Download all of the source files and navigate to their directory.
+First, make sure you have Python3 downloaded.  Clone this git repo in the location of your choice.
 Run the below command to start the program.  Follow along with the prompts through the terminal and enter inputs as needed.
 
 ```python
 
+    $ git clone https://github.com/melodell/TTR-Promotion-Calculator.git
     $ python3 ttrPromoBot.py
 
 ```
